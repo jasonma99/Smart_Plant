@@ -1,10 +1,5 @@
-# c-cross-compile-example
-Example of a C program for the Omega that needs to be cross-compiled
+# A C++ program for the Omega that needs to be cross-compiled
 
-## Purpose
-
-Demonstration project for cross-compiling a C program for the Omega using the LEDE build system.
-
-## Companion Example
+##Detailed information for the project is written in the doc file.## Companion Example
 
 See the [Cross Compiling for the Omega](https://docs.onion.io/omega2-docs/cross-compiling.html) article in the [Onion Docs](https://docs.onion.io).
