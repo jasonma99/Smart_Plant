@@ -1,7 +1,6 @@
 # Smart Plant
-A C++ program for the Omega that needs to be cross-compiled
+A C++ program for the Omega that needs to be cross-compiled.
 
-. 
 Detailed information for the project is written in the doc file. 
 Companion Example
 
